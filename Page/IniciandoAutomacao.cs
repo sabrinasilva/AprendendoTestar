@@ -9,7 +9,7 @@ namespace InvestimentoSicredi.Page
     public class IniciandoAutomacao : BaseTest
     {
 
-        public IniciandoAutomacao(IWebDriver driver, WebDriverWait wait)
+        public IniciandoAutomacao(IWebDriver driver, WebDriverWait wait) 
         {
             this.driver = driver;
             this.wait = wait;

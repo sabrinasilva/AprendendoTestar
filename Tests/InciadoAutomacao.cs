@@ -11,7 +11,7 @@ namespace InvestimentoSicredi.Tests
     public class InciadoAutomacao : BaseTest
     {
 
-        [Test]
+        [Test] 
         [OrderAttribute(1)]
         public void ValidarValorIncial()
         {

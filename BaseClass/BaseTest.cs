@@ -10,7 +10,7 @@ namespace InvestimentoSicredi.BaseClass
     public class BaseTest
     {
         public IWebDriver driver;
-
+         
         public IniciandoAutomacao formSimulador;
         public WebDriverWait wait;
 
